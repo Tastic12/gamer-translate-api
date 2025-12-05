@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gamer-translate-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "49da4e87-9ddc-48e0-ac74-de9578d396fa",
+			"database_name": "gamer-translate-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
